@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1592341145 source:c:\users\nicol\documents\estruturas\m3grafos\main.c
+	<stdio.h>
+	<math.h>
+	<stdbool.h>
+	<locale.h>
+	"codefun.h"
+
+1589505980 c:\users\nicol\documents\estruturas\m3grafos\codefun.h
+	<windows.h>
+	<time.h>
+	<string.h>
+
